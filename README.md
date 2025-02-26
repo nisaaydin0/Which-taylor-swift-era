@@ -1,4 +1,4 @@
-
+****  THIS IS A CURSOR AI PROJECT!*****
 
 📌 Taylor Swift Era Quiz
 🎤 What Era Do You Belong To?
